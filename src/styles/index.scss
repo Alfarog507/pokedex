@@ -1,0 +1,135 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// ? Por Colores Card
+.bg-green {
+  background: #49d0b0;
+}
+
+.bg-red {
+  background: #fa6d6b;
+}
+
+.bg-blue {
+  background: #76befe;
+}
+
+.bg-yellow {
+  background: #ffd76f;
+}
+
+.bg-brown {
+  background: #544726c8;
+}
+
+.bg-purple {
+  background: #a566ff;
+}
+
+.bg-black {
+  background: #000;
+}
+
+.bg-pink {
+  background: #ff6b81;
+}
+
+.bg-gray {
+  background: #d1d1d1;
+}
+
+.bg-white {
+  background: #fff;
+}
+
+.bg-all {
+  background: #f1f1f1;
+}
+
+// ? Por Tipos
+.color-fire {
+  background-color: #f08030;
+}
+
+.color-grass {
+  background-color: #78c850;
+}
+
+.color-steel {
+  background-color: #b8b8d0;
+}
+
+.color-water {
+  background-color: #6890f0;
+}
+
+.color-psychic {
+  background-color: #f366b9;
+}
+
+.color-ground {
+  background-color: #e0c068;
+}
+
+.color-ice {
+  background-color: #98d8d8;
+}
+
+.color-flying {
+  background-color: #a890f0;
+}
+
+.color-ghost {
+  background-color: #705898;
+}
+
+.color-normal {
+  background-color: #a8a878;
+}
+
+.color-poison {
+  background-color: #a040a0;
+}
+
+.color-rock {
+  background-color: #b8a038;
+}
+
+.color-fightning {
+  background-color: #c03028;
+}
+
+.color-dark {
+  background-color: #705848;
+}
+
+.color-bug {
+  background-color: #a8b820;
+}
+
+.color-dragon {
+  background-image: linear-gradient(180deg, #53a4cf 50%, #f16e57 50%);
+}
+
+.color-electric {
+  background-color: #f8d030;
+}
+
+.color-fairy {
+  background-color: #ee99ac;
+}
+
+.color-shadow {
+  background-color: #333;
+}
+
+.color-unknown {
+  background-color: #68a090;
+}
